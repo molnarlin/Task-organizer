@@ -56,3 +56,5 @@
 ### Installation:
 
 pip3 install 'Flask-SQLAlchemy<3' psycopg2 sqlalchemy==1.4.46
+
+pip freeze --local > requirements.txt
